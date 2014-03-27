@@ -14,3 +14,4 @@ Colaboradores
 
 - Lucas de Sena dos Santos `eu@seninha.net`
 - Lucas Mafra
+- Carlos
