@@ -1,4 +1,4 @@
-ps-dos-bolados
+PS dos Bolados
 ==============
 
 Trabalhos de Programação Sistemática da turma A de 1/2014
